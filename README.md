@@ -1,4 +1,4 @@
-🚁 Flocking Algorithm
+🚁 **Flocking Algorithm**
 
 💡Have you ever wondered how flocks of birds or drone swarms move so beautifully in sync — without crashing into each other?
 
