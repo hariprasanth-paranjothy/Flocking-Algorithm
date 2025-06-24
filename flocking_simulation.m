@@ -7,7 +7,7 @@ initialPosition = rand(2, numQuadcopters) * 15;   % Random initial positions (X,
 initialVelocity = randn(2, numQuadcopters) * 0.1; % Random initial velocities (X,Y)
 
 % Load quadcopter image (top view)
-quadImage = imread("C:\Users\harip\Desktop\LinkedIn\quadcopter.png");
+quadImage = imread("Path");
 
 % SETUP FIGURE
 figure;
