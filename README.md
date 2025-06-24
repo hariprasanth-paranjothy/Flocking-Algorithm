@@ -26,7 +26,3 @@ This is just a starting point! Flocking algorithms power everything from drone l
 - `flockingStep.m` — computes flocking behavior
 - `quad_icon.png` — (optional) quadcopter icon if you want to plot images instead of circles
 
- ▶️ How to run
--Open MATLAB, then:
-```matlab
-flocking_simulation
