@@ -4,7 +4,7 @@
 
 In 1986, Craig Reynolds introduced the *Boids* model — a simple yet powerful algorithm that simulates natural flocking behavior.  
 
-Each individual in the swarm follows 3 simple rules: 
+Each individual in the swarm follows 3 simple rules:  
  ✅ Separation — steer to avoid collisions  
  ✅ Cohesion — stay close to neighbors  
  ✅ Alignment — match group direction  
